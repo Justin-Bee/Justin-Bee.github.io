@@ -10,3 +10,8 @@ body {
   background-size: cover;
   -o-background-size: cover;
 }
+
+
+.aligncenter {
+    text-align: center;
+}

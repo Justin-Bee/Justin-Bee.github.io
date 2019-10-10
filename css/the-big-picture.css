@@ -15,3 +15,7 @@ body {
 .aligncenter {
     text-align: center;
 }
+
+.pic{
+  border-radius: 50%;
+}
